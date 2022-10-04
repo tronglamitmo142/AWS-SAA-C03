@@ -1,4 +1,4 @@
-## 5 properties to consider 1 ecosystem is cloud 
+## 1. 5 properties to consider 1 ecosystem is cloud 
 
 1. Can provision capabilities as needed without requiring human interation   
 2. Broad over network:  
@@ -13,7 +13,7 @@
 5. Measured service  
    1. Resource useage can be monitored, controlled, reported and **Billed**  
 
-## Types of Cloud   
+## 2. Types of Cloud   
 1. Public Cloud: AWS, GCP, Azure,...  
 2. Private Cloud:   
    - Has 5 characteristics above   
@@ -21,7 +21,7 @@
 3. Multicloud: Using multicloud environment   
 4. Hybrid Cloud: Public Cloud + Private Cloud != Hybrid Environment (Public Cloud + On-Premise environment)  
 
-## Cloud Services Model     
+## 3. Cloud Services Model     
 
 - Infrastructure Stack:       
 ![InfraStack](./images/Screen%20Shot%202022-10-04%20at%2014.04.17.png)    
