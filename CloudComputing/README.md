@@ -24,7 +24,7 @@
 ## 3. Cloud Services Model     
 
 - Infrastructure Stack:       
-![InfraStack](./images/Screen%20Shot%202022-10-04%20at%2014.04.17.png)    
+![InfraStack](./Screen%20Shot%202022-10-04%20at%2014.11.34.png)    
 - Unit of consumsion: Part we not manage => need to pay    
 - Some types:    
   - DC Hosted: Provider provision **facilities** => need to pay for **facilities**     
